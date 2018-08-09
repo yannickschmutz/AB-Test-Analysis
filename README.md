@@ -1,7 +1,7 @@
 # AB-Test-Analysis
 
 ### PURPOSE OF THE SCRIPT 
-- Automate part of the repitive work done every time analysing Tests
+- Automate part of the repetitive work that Analysts need to do to understand teh Results of an Experiment
 - Allowing analysts to use RPV as a Success Metric (watching for Revenue outliers and using WIlcoxon Rank Sum Test to deteremine statistical significance)
 
 ### WHAT IS THIS SCRIPT DOING ?
